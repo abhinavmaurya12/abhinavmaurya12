@@ -1,41 +1,71 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=250&section=header&text=Abhinav%20Maurya&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20PHP%20|%20Wordpress%20|%20UI%20/%20UX%20Enthusiast&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,25:0ea5e9,50:8b5cf6,75:6366f1,100:0f172a&text=Abhinav%20Maurya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20•%20PHP%20•%20WordPress%20•%20UI%20/%20UX%20Enthusiast&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=Frontend+Developer;Backend+Developer;JavaScript+Lover;UI%2FUX+Focused+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=Frontend+Developer+⚡;Backend+Developer+🚀;JavaScript+%7C+PHP+%7C+Java+Developer+💻;Building+Modern+Digital+Experiences+✨"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=abhinavmaurya12&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/abhinavmaurya12?style=for-the-badge&logo=github&label=Followers&color=8b5cf6"/>
 
-<img src="https://img.shields.io/github/followers/abhinavmaurya12?style=for-the-badge&logo=github&color=8b5cf6"/>
+<img src="https://img.shields.io/github/stars/abhinavmaurya12?style=for-the-badge&logo=github&label=Stars&color=38bdf8"/>
 
-<img src="https://img.shields.io/github/stars/abhinavmaurya12?style=for-the-badge&logo=github&color=38BDF8"/>
+<img src="https://komarev.com/ghpvc/?username=abhinavmaurya12&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 <div align="center">
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
 ```js
 const abhinav_maurya = {
+    role: "Java Full Stack Developer",
+
     location: "India 🇮🇳",
-    currentlyLearning: ["React","Node.js","MongoDB","Java Advance"],
 
-    interests: ["Web Development","UI/UX","Java","MySQL"],
+    currentlyLearning: [
+        "Advanced Java",
+        "React",
+        "Node.js",
+        "MongoDB"
+    ],
 
-    hobbies: [ "Coding 💻","Tech Exploration 🚀","Gaming 🎮" ]
+    expertise: [
+        "Frontend Development",
+        "Backend Development",
+        "UI/UX Design",
+        "SEO Optimization"
+    ],
+
+    techStack: {
+        frontend: ["HTML", "CSS", "JavaScript"],
+        backend: ["PHP", "Java"],
+        database: ["MySQL", "MongoDB"],
+        cms: ["WordPress"]
+    },
+
+    hobbies: [
+        "Coding 💻",
+        "Gaming 🎮",
+        "Tech Exploration 🚀"
+    ]
 };
 ```
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavmaurya12&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
 
 </td>
 </tr>
@@ -50,22 +80,22 @@ const abhinav_maurya = {
 <div align="center">
 
 <a href="https://github.com/abhinavmaurya12">
-<img src="https://skillicons.dev/icons?i=github" height="55"/>
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
 </a>
 
 <a href="https://www.instagram.com/_abhinav_830_?igsh=OGwwYzRneHh1dGZh">
-<img src="https://skillicons.dev/icons?i=instagram" height="55"/>
+<img src="https://skillicons.dev/icons?i=instagram" height="60"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abhinav-maurya-25162b338?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+<a href="https://www.linkedin.com/in/abhinav-maurya-25162b338">
+<img src="https://skillicons.dev/icons?i=linkedin" height="60"/>
 </a>
 
 </div>
 
 ---
 
-# ⚒️ Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
@@ -79,6 +109,8 @@ const abhinav_maurya = {
 
 <img src="https://img.shields.io/badge/UI%20%2F%20UX-Design-0EA5E9?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/SEO-Optimization-22C55E?style=for-the-badge"/>
+
 </div>
 
 ---
@@ -87,7 +119,7 @@ const abhinav_maurya = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavmaurya12&theme=tokyonight"/>
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavmaurya12&theme=tokyonight"/>
 
 </div>
 
@@ -97,33 +129,31 @@ const abhinav_maurya = {
 
 <div align="center">
 
-<img width="85%" src="https://streak-stats.demolab.com?user=abhinavmaurya12&theme=tokyonight&hide_border=true&border_radius=20"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=abhinavmaurya12&theme=tokyonight&hide_border=true&border_radius=30"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavmaurya12&theme=tokyo-night&hide_border=true&radius=18"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavmaurya12&theme=tokyo-night&hide_border=true&radius=20"/>
 
 </div>
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Certifications
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhinavmaurya12&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhinavmaurya12&theme=tokyonight&no-frame=true&row=1&column=5&margin-w=15"/>
 
 </div>
 
----
-
-# 📜 Certifications
+<br>
 
 <div align="center">
 
@@ -161,19 +191,19 @@ const abhinav_maurya = {
 
 | 💻 Project | 🚀 Description |
 |---|---|
-| Face Mask Detection System | AI powered realtime mask detection |
-| Yoga & Ayurveda Website | Health & wellness platform |
-| Portfolio Website | Modern animated developer portfolio |
+| 😷 Face Mask Detection System | AI powered realtime mask detection |
+| 🌿 Yoga & Ayurveda Website | Health & wellness platform |
+| 💼 Portfolio Website | Modern animated developer portfolio |
 
 </div>
 
 ---
 
-# ✨ Developer Quote
+# ✨ Random Dev Quote
 
 <div align="center">
 
-<img width="80%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img width="85%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -183,8 +213,10 @@ const abhinav_maurya = {
 
 ## 💙 Thanks for visiting my profile
 
+### ⚡ Code • Create • Innovate • Repeat
+
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f172a,25:0ea5e9,50:8b5cf6,75:6366f1,100:0f172a"/>
 
 </div>
