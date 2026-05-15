@@ -117,6 +117,7 @@ const abhinav_maurya = {
 <img src="https://img.shields.io/badge/AI%20-Certified-purple?style=for-the-badge&logo=openai"/>
 
 </div>
+
 ---
 
 # 🚀 Featured Projects
