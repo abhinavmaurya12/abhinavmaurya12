@@ -53,7 +53,7 @@ const abhinav = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,mongodb,java,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,github,vscode&perline=6" />
 
 </div>
 
