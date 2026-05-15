@@ -37,6 +37,9 @@ const abhinav_maurya = {
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
+<a href="https://www.instagram.com/_abhinav_830_?igsh=OGwwYzRneHh1dGZh">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
 
 <a href="https://www.linkedin.com/in/abhinav-maurya-25162b338?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
