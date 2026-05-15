@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhinav Maurya</h1>
+<h1 align="center">Hi 👋, <br> I'm Abhinav Maurya</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 - 📫 How to reach me **navrya1212@gmail.com**
