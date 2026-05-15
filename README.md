@@ -49,7 +49,7 @@ const abhinav_maurya = {
     techStack: {
         frontend: ["HTML", "CSS", "JavaScript"],
         backend: ["PHP", "Java"],
-        database: ["MySQL", "MongoDB"],
+        database: ["MySQL"],
         cms: ["WordPress"]
     },
 
@@ -63,11 +63,6 @@ const abhinav_maurya = {
 
 </td>
 
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavmaurya12&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</td>
 </tr>
 </table>
 
