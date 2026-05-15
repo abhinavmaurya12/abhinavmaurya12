@@ -94,9 +94,11 @@ const abhinav_maurya = {
 
 | 🎓 Certificate | 🏆 Platform |
 |---|---|
-| Java Programming Certificate | Oracle / Udemy |
-| MySQL Database Certificate | MySQL / Coursera |
-| HTML, CSS & JavaScript Bootcamp | Udemy / Great Learning |
+| Java Programming Certificate | Codic Technologies |
+| MySQL Database Certificate | Lets Upgrade |
+| HTML, CSS & JavaScript Bootcamp | Lets Upgrade |
+| SEO Fundamentals Certificate | Pankaj Kumar SEO |
+| AI Masterclass Certificate | Freedom with AI |
 
 </div>
 
@@ -110,8 +112,11 @@ const abhinav_maurya = {
 
 <img src="https://img.shields.io/badge/HTML%20CSS%20JS-Bootcamp-success?style=for-the-badge&logo=javascript"/>
 
-</div>
+<img src="https://img.shields.io/badge/SEO-Certified-brightgreen?style=for-the-badge&logo=google"/>
 
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Certified-purple?style=for-the-badge&logo=openai"/>
+
+</div>
 ---
 
 # 🚀 Featured Projects
