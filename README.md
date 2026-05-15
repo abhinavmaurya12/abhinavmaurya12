@@ -87,16 +87,6 @@ const abhinav_maurya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavmaurya12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavmaurya12&layout=compact&theme=tokyonight&hide_border=true&border_radius=20"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhinavmaurya12&theme=tokyonight"/>
 
 </div>
