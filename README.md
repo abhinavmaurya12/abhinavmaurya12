@@ -88,6 +88,32 @@ const abhinav_maurya = {
 
 ---
 
+# 📜 Certifications
+
+<div align="center">
+
+| 🎓 Certificate | 🏆 Platform |
+|---|---|
+| Java Programming Certificate | Oracle / Udemy |
+| MySQL Database Certificate | MySQL / Coursera |
+| HTML, CSS & JavaScript Bootcamp | Udemy / Great Learning |
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-Certified-orange?style=for-the-badge&logo=java"/>
+
+<img src="https://img.shields.io/badge/MySQL-Certified-blue?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/HTML%20CSS%20JS-Bootcamp-success?style=for-the-badge&logo=javascript"/>
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 <div align="center">
