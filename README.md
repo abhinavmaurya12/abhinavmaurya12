@@ -94,7 +94,7 @@ const abhinav_maurya = {
 
 | 🎓 Certificate | 🏆 Platform |
 |---|---|
-| Java Programming Certificate | Codic Technologies |
+| Java Programming Certificate | Codec Technologies |
 | MySQL Database Certificate | Lets Upgrade |
 | HTML, CSS & JavaScript Bootcamp | Lets Upgrade |
 | SEO Fundamentals Certificate | Pankaj Kumar SEO |
