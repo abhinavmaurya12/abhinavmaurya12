@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Abhinav%20Maurya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20PHP%20|%20Wordpress%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=220&section=header&text=Abhinav%20Maurya&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20PHP%20|%20Wordpress%20|%20UI%20UX%20Enthusiast&descAlignY=58"/>
 
 </div>
 
@@ -37,9 +37,6 @@ const abhinav = {
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="navrya1212@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
 
 <a href="https://www.linkedin.com/in/abhinav-maurya-25162b338?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
