@@ -10,7 +10,7 @@
 
 ### 🚀 Building Modern Web Experiences
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+Node.js+Developer;JavaScript+Lover;UI%2FUX+Focused+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+%26+Developer;JavaScript+Lover;UI%2FUX+Focused+Developer;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -21,9 +21,9 @@
 ```js
 const abhinav = {
     location: "India 🇮🇳",
-    currentlyLearning: ["React", "Node.js", "MongoDB"],
-    interests: ["Web Development", "UI/UX", "Java"],
-    hobbies: ["Yoga 🧘", "Coding 💻", "Tech Exploration 🚀"]
+    currentlyLearning: ["React", "Node.js", "MongoDB", Java Advance],
+    interests: ["Web Development", "UI/UX", "Java" , "MySQL"],
+    hobbies: ["Coding 💻", "Tech Exploration 🚀", "Gaming 🎮"]
 };
 ```
 
@@ -37,11 +37,11 @@ const abhinav = {
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:navrya1212@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/abhinav-maurya-25162b338?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
@@ -53,23 +53,10 @@ const abhinav = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,java,git,github,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,mongodb,java,github,vscode&perline=6" />
 
 </div>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinavmaurya12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavmaurya12&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
 
 # 🔥 Contribution Streak
 
