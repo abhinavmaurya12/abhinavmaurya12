@@ -1,13 +1,109 @@
-<h1 align="center">Hi 👋, <br> I'm Abhinav Maurya</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<div align="center">
 
-- 📫 How to reach me **navrya1212@gmail.com**
+# Hi 👋, I'm Abhinav Maurya
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Full Stack Developer | React Enthusiast | Tech Explorer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Node.js+Developer;Building+Modern+Web+Experiences;Always+Learning+New+Things" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abhinavmaurya12&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+</div>
+
+---
+
+# 💫 About Me
+
+- 🌱 Currently learning **React, Node.js & MongoDB**
+- 💻 Passionate about **Web Development**
+- ⚡ Love building modern UI/UX websites
+- 🧘 Interested in **Yoga & Ayurveda**
+- 🚀 Exploring Full Stack Development
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhinav-maurya-25162b338?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhinav-maurya-25162b338?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_abhinav_830_?igsh=ogwwyzrnehh1dgzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_abhinav_830_?igsh=ogwwyzrnehh1dgzh" height="30" width="40" /></a>
+<a href="https://github.com/abhinavmaurya12" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+
+<a href="https://www.linkedin.com/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
+
+# 💻 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,java,git,github,vscode" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinavmaurya12&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavmaurya12&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=abhinavmaurya12&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhinavmaurya12&theme=tokyonight&no-frame=true&margin-w=15" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🖥️ Face Mask Detection System | AI-based realtime mask detection using TensorFlow.js |
+| 🌿 Ayurveda & Yoga Website | Health-focused website using React & Node.js |
+| 💡 Portfolio Website | Modern animated developer portfolio |
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavmaurya12&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+# ✨ Quote
+
+<div align="center">
+
+### “Code. Learn. Build. Repeat.” 🚀
+
+</div>
