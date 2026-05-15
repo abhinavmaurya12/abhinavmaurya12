@@ -20,7 +20,7 @@
 
 ```js
 const abhinav_maurya = {
-    location: "India 🇮🇳",
+    location: "India 🇮🇳 ",
     currentlyLearning: [ "React", "Node.js", "MongoDB", "Java Advance" ],
     interests: ["Web Development", "UI/UX", "Java" , "MySQL"],
     hobbies: ["Coding 💻", "Tech Exploration 🚀", "Gaming 🎮"]
