@@ -114,7 +114,7 @@ const abhinav_maurya = {
 
 <img src="https://img.shields.io/badge/SEO-Certified-brightgreen?style=for-the-badge&logo=google"/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Certified-purple?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/AI%20Certified-purple?style=for-the-badge&logo=openai"/>
 
 </div>
 ---
