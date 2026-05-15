@@ -10,7 +10,7 @@
 
 ### 🚀 Building Modern Web Experiences
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+%26+Developer;JavaScript+Lover;UI%2FUX+Focused+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Frontend+Developer;Backend+Developer;JavaScript+Lover;UI%2FUX+Focused+Developer;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -21,7 +21,7 @@
 ```js
 const abhinav = {
     location: "India 🇮🇳",
-    currentlyLearning: ["React", "Node.js", "MongoDB", Java Advance],
+    currentlyLearning: [ "React", "Node.js", "MongoDB", "Java Advance" ],
     interests: ["Web Development", "UI/UX", "Java" , "MySQL"],
     hobbies: ["Coding 💻", "Tech Exploration 🚀", "Gaming 🎮"]
 };
@@ -37,7 +37,7 @@ const abhinav = {
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="mailto:navrya1212@gmail.com">
+<a href="navrya1212@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
