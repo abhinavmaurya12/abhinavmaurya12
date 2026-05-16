@@ -198,6 +198,22 @@ const abhinav_maurya = {
 
 ### 💙 Thanks for visiting my profile!
 
+<p><em>If you find my work interesting, consider giving a ⭐ to my repositories!</em></p>
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-abhinavmaurya12-181717?style=social&logo=github)](https://github.com/abhinavmaurya12)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/abhinav-maurya-25162b338)
+&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram)](https://www.instagram.com/_abhinav_830_)
+ 
+<br/><br/>
+ 
+```
+⚡ Code  •  🎨 Create  •  💡 Innovate  •  🔁 Repeat
+```
+ 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:060810,20:0ea5e9,50:8b5cf6,80:6366f1,100:060810"/>
