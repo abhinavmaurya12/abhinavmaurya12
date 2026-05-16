@@ -25,41 +25,74 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-    
+
+<!-- ABOUT CODE CARD + GIF side by side -->
+<table width="96%" border="0" cellpadding="0" cellspacing="12">
+<tr>
+<td width="56%" valign="top">
+
 ```js
-const abhinav_maurya = {
-    role        : "Java Full Stack Developer",
-    location    : "India 🇮🇳",
 
-    currentlyLearning : [
-        "Advanced Java", "React",
-        "Node.js",       "MongoDB"
-    ],
+const abhinavMaurya = {
 
-    expertise : [
-        "Frontend Development",
-        "Backend Development",
-        "UI/UX Design",
-        "SEO Optimization"
-    ],
+  name      : "Abhinav Maurya",
+  role      : "Java Full Stack Developer",
+  location  : "Ghaziabad, India 🇮🇳",
+  status    : "Open to Opportunities 🟢",
 
-    techStack : {
-        frontend : ["HTML", "CSS", "JavaScript"],
-        backend  : ["PHP", "Java"],
-        database : ["MySQL"],
-        cms      : ["WordPress"]
-    },
+  skills    : {
+    frontend : ["HTML5", "CSS3", "JavaScript"],
+    backend  : ["Java", "PHP"],
+    database : ["MySQL"],
+    cms      : ["WordPress"],
+    design   : ["UI/UX", "SEO Optimization"],
+  },
 
-    hobbies : ["Coding 💻", "Gaming 🎮", "Tech Exploration 🚀"],
+  learning  : [
+    "React ⚛️", "Node.js 🟢",
+    "MongoDB 🍃", "Advanced Java ☕"
+  ],
 
-    quote   : "Code • Create • Innovate • Repeat ✨"
+  hobbies   : [
+    "💻 Coding", "🎮 Gaming",
+    "🚀 Tech Exploration"
+  ],
+
+  askMeAbout: [
+    "Web Dev", "Java", "PHP",
+    "WordPress", "UI/UX", "SEO"
+  ],
+
+  funFact   : "I debug with console.log 😄",
+  motto     : "Code · Create · Innovate · Repeat ✨",
 };
 ```
 
-</div>
+</td>
+<td width="44%" valign="top" align="center">
+<br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF"/>
+<br><br>
 
----
+<img src="https://img.shields.io/badge/💡_Fun_Fact-I_debug_with_console.log_😄-1e293b?style=flat-square&labelColor=1e293b&color=38bdf8" alt="Fun Fact"/>
+
+<br><br>
+<img src="https://img.shields.io/badge/💡_Fun_Fact-I_turn_coffee_into_code_☕-1e293b?style=flat-square&labelColor=1e293b&color=38bdf8" alt="Fun Fact"/>
+
+<br><br>
+<img src="https://img.shields.io/badge/💡_Fun_Fact-99%25_of_bugs_fixed_by_restarting_😂-1e293b?style=flat-square&labelColor=1e293b&color=38bdf8" alt="Fun Fact"/>
+
+<br><br>
+<img src="https://img.shields.io/badge/💡_Fun_Fact-Coding_and_gaming_are_my_superpowers_🔥-1e293b?style=flat-square&labelColor=1e293b&color=38bdf8" alt="Fun Fact"/>
+
+<br><br>
+<img src="https://img.shields.io/badge/💡_Fun_Fact-My_code_works..._sometimes_😅-1e293b?style=flat-square&labelColor=1e293b&color=38bdf8" alt="Fun Fact"/>
+<br>
+
+</td>
+</tr>
+</table>
+</div>
 
 ## 🌐 Connect With Me
 
