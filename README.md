@@ -194,7 +194,7 @@ const abhinav_maurya = {
 
 ---
 
-# ✨ Random Dev Quote
+# ✨ Developer Quote
 
 <div align="center">
 
@@ -208,7 +208,7 @@ const abhinav_maurya = {
 
 ## 💙 Thanks for visiting my profile
 
-### ⚡ Code • Create • Innovate • Repeat
+### ⚡ Code • Create • Innovate • Repeat 
 
 <br>
 
