@@ -103,7 +103,7 @@ const abhinav_maurya = {
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,java,php,wordpress,mysql,github,vscode,react,nodejs,mongodb&theme=dark&perline=6" alt="Tech Stack Icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,java,php,wordpress,mysql,github,vscode&theme=dark&perline=6" alt="Tech Stack Icons"/>
 </div>
 
 ---
@@ -112,11 +112,11 @@ const abhinav_maurya = {
 
 <div align="center">
 
-| &nbsp;&nbsp;💻 Project&nbsp;&nbsp; | &nbsp;&nbsp;🚀 Description&nbsp;&nbsp; | &nbsp;&nbsp;🏷️ Tags&nbsp;&nbsp; |
+| &nbsp;&nbsp;💻 Project&nbsp;&nbsp; | &nbsp;&nbsp;🚀 Description&nbsp;&nbsp; | &nbsp;&nbsp; |
 |:---:|:---|:---:|
-| 😷 **Face Mask Detection System** | AI-powered real-time mask detection using computer vision | `AI` `Computer Vision` |
-| 🌿 **Yoga & Ayurveda Website** | Health & wellness platform with rich UI and responsive design | `WordPress` `UI/UX` |
-| 💼 **Portfolio Website** | Modern animated developer portfolio with cutting-edge frontend | `HTML` `CSS` `JS` |
+| 😷 **Face Mask Detection System** | AI-powered real-time mask detection using computer vision |
+| 🌿 **Yoga & Ayurveda Website** | Health & wellness platform with rich UI and responsive design |
+| 💼 **Portfolio Website** | Modern animated developer portfolio with cutting-edge frontend |
 
 </div>
 
@@ -133,10 +133,6 @@ const abhinav_maurya = {
 <br/>
 
 <div align="center">
-
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=abhinavmaurya12&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavmaurya12&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages"/>
 
 </div>
 
@@ -203,8 +199,6 @@ const abhinav_maurya = {
 ### 💙 Thanks for visiting my profile!
 
 <br/>
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:060810,20:0ea5e9,50:8b5cf6,80:6366f1,100:060810"/>
 
