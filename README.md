@@ -26,7 +26,7 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-
+    
 ```js
 const abhinav_maurya = {
     role        : "Java Full Stack Developer",
@@ -180,6 +180,23 @@ const abhinav_maurya = {
 | SEO Fundamentals | Pankaj Kumar SEO | ![SEO](https://img.shields.io/badge/SEO-Certified-22C55E?style=flat-square&logo=google&logoColor=white) |
 | AI Masterclass | Freedom with AI | ![AI](https://img.shields.io/badge/AI-Certified-a78bfa?style=flat-square&logo=openai&logoColor=white) |
 
+</div>
+
+---
+## ⚡ Skill Proficiency
+<div align="center">
+ 
+| Skill | Progress |
+|:------|:---------|
+| 🌐 HTML & CSS | ![90%](https://progress-bar.xyz/90?title=HTML+%26+CSS&width=420&color=E34F26) |
+| ⚡ JavaScript | ![78%](https://progress-bar.xyz/78?title=JavaScript&width=420&color=F7DF1E) |
+| ☕ Java | ![50%](https://progress-bar.xyz/80?title=Java&width=420&color=ED8B00) |
+| 🐘 PHP | ![70%](https://progress-bar.xyz/70?title=PHP&width=420&color=777BB4) |
+| 🗄️ MySQL | ![75%](https://progress-bar.xyz/75?title=MySQL&width=420&color=4479A1) |
+| 🔷 WordPress | ![90%](https://progress-bar.xyz/88?title=WordPress&width=420&color=21759B) |
+| 🎨 UI / UX Design | ![70%](https://progress-bar.xyz/82?title=UI+%2F+UX&width=420&color=a78bfa) |
+| 📈 SEO | ![75%](https://progress-bar.xyz/72?title=SEO&width=420&color=22c55e) |
+ 
 </div>
 
 ---
