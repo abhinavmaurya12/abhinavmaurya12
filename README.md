@@ -30,9 +30,8 @@
 <table width="100%">
 <tr>
 
-<td align="center" width="50%" valign="top">
-
-### 💻 Developer Card
+<!-- LEFT SIDE -->
+<td width="55%" valign="top">
 
 ```js
 const abhinavMaurya = {
@@ -40,12 +39,14 @@ const abhinavMaurya = {
   name      : "Abhinav Maurya",
   role      : "Java Full Stack Developer",
   location  : "Ghaziabad, India 🇮🇳",
+  status    : "Open to Opportunities 🟢",
 
   skills : {
     frontend : ["HTML5", "CSS3", "JavaScript"],
     backend  : ["Java", "PHP"],
     database : ["MySQL"],
-    cms      : ["WordPress"]
+    cms      : ["WordPress"],
+    design   : ["UI/UX", "SEO Optimization"],
   },
 
   learning : [
@@ -55,21 +56,37 @@ const abhinavMaurya = {
     "Advanced Java ☕"
   ],
 
-  motto : "Code · Create · Innovate · Repeat ✨"
+  hobbies : [
+    "💻 Coding",
+    "🎮 Gaming",
+    "🚀 Tech Exploration"
+  ],
+
+  askMeAbout : [
+    "Web Dev",
+    "Java",
+    "PHP",
+    "WordPress",
+    "UI/UX",
+    "SEO"
+  ],
+
+  funFact : "I debug with console.log 😄",
+
+  motto : "Code · Create · Innovate · Repeat ✨",
 };
 ```
 
 </td>
 
-<td align="center" width="50%" valign="top">
-
-### 🚀 Fun Side
+<!-- RIGHT SIDE -->
+<td width="45%" align="center" valign="middle">
 
 <img 
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="100%"
-style="max-width:320px; border-radius:12px;"
-alt="Coding GIF"
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="100%" 
+    style="max-width:420px; border-radius:12px;"
+    alt="Coding GIF"
 />
 
 <br><br>
@@ -82,7 +99,15 @@ alt="Coding GIF"
 
 <br><br>
 
+<img src="https://img.shields.io/badge/🐛_Fun_Fact-99%25_of_bugs_fixed_by_restarting-1e293b?style=for-the-badge&labelColor=1e293b&color=f59e0b" />
+
+<br><br>
+
 <img src="https://img.shields.io/badge/🎮_Fun_Fact-Coding_+_Gaming_=_Superpower-1e293b?style=for-the-badge&labelColor=1e293b&color=8b5cf6" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/😅_Fun_Fact-My_code_works..._sometimes-1e293b?style=for-the-badge&labelColor=1e293b&color=ef4444" />
 
 </td>
 
