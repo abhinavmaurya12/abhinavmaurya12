@@ -246,12 +246,12 @@ const abhinavMaurya = {
 |:------|:---------|
 | 🌐 HTML & CSS | ![90%](https://progress-bar.xyz/90?title=HTML+%26+CSS&width=420&color=E34F26) |
 | ⚡ JavaScript | ![78%](https://progress-bar.xyz/78?title=JavaScript&width=420&color=F7DF1E) |
-| ☕ Java | ![50%](https://progress-bar.xyz/80?title=Java&width=420&color=ED8B00) |
-| 🐘 PHP | ![70%](https://progress-bar.xyz/70?title=PHP&width=420&color=777BB4) |
+| ☕ Java | ![50%](https://progress-bar.xyz/50?title=Java&width=420&color=ED8B00) |
+| 🐘 PHP | ![80%](https://progress-bar.xyz/70?title=PHP&width=420&color=777BB4) |
 | 🗄️ MySQL | ![75%](https://progress-bar.xyz/75?title=MySQL&width=420&color=4479A1) |
-| 🔷 WordPress | ![90%](https://progress-bar.xyz/88?title=WordPress&width=420&color=21759B) |
-| 🎨 UI / UX Design | ![70%](https://progress-bar.xyz/82?title=UI+%2F+UX&width=420&color=a78bfa) |
-| 📈 SEO | ![75%](https://progress-bar.xyz/72?title=SEO&width=420&color=22c55e) |
+| 🔷 WordPress | ![90%](https://progress-bar.xyz/90?title=WordPress&width=420&color=21759B) |
+| 🎨 UI / UX Design | ![70%](https://progress-bar.xyz/70?title=UI+%2F+UX&width=420&color=a78bfa) |
+| 📈 SEO | ![75%](https://progress-bar.xyz/75?title=SEO&width=420&color=22c55e) |
  
 </div>
 
