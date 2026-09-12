@@ -176,6 +176,67 @@ const abhinavMaurya = {
 
 </div>
 
+Sure — here’s the updated **Featured Projects** section with the **FunByte live demo** added, while keeping the formatting clean for your GitHub profile README.
+
+
+
+### 🌐 JavaPath
+
+A Java learning platform focused on **Java, DSA, interview preparation, coding practice, and programming resources**.
+
+🔗 **Live:** [https://abhinavmaurya12.github.io/javapath-react/](https://abhinavmaurya12.github.io/javapath-react/)
+
+---
+
+### ☕ CodeSquadz
+
+My public Java programming practice repository containing programs covering:
+
+* Core Java
+* OOP
+* Arrays
+* Strings
+* Collections
+* Exception Handling
+* Multithreading
+* File I/O
+* AWT & Swing
+* Patterns
+* Packages
+* Java problem solving
+
+🔗 **Repository:** [https://github.com/abhinavmaurya12/CodeSquadz](https://github.com/abhinavmaurya12/CodeSquadz)
+
+---
+
+### 🎮 FunByte
+
+A React-based collection of **fun browser games and interactive mini-projects**.
+
+🎮 **Live:** [https://abhinavmaurya12.github.io/funbyte/](https://abhinavmaurya12.github.io/funbyte/)
+
+📦 **Repository:** [https://github.com/abhinavmaurya12/funbyte](https://github.com/abhinavmaurya12/funbyte)
+
+---
+
+## 💻 What I Like Building
+
+```text
+☕ Java Applications
+        ↓
+🧩 DSA & Problem Solving
+        ↓
+⚛️ React Web Applications
+        ↓
+🌐 Full Stack Projects
+        ↓
+🤖 AI + Web Development
+```
+
+I enjoy building projects that combine **learning, problem solving, and practical development**.
+
+This is better for your profile because **all three projects now have a clear destination**: JavaPath has its live site, CodeSquadz links to the repository, and FunByte has **both live demo + source code**.
+
 ---
 
 ## 📊 GitHub Analytics
@@ -204,53 +265,6 @@ const abhinavMaurya = {
 
 ---
 
-🚀 Featured Projects
-🌐 JavaPath
-
-A Java learning platform focused on Java, DSA, interview preparation, coding practice, and programming resources.
-
-🔗 Live:
-https://abhinavmaurya12.github.io/javapath-react/
-
-☕ CodeSquadz
-
-My public Java programming practice repository containing programs covering:
-
-Core Java
-OOP
-Arrays
-Strings
-Collections
-Exception Handling
-Multithreading
-File I/O
-AWT & Swing
-Patterns
-Packages
-Java problem solving
-
-🔗 Repository:
-https://github.com/abhinavmaurya12/CodeSquadz
-
-🎮 FunByte
-
-A React-based collection of fun browser games and interactive mini-projects.
-
-🔗 Repository:
-https://github.com/abhinavmaurya12/funbyte
-
-💻 What I Like Building
-Java Applications
-      ↓
-DSA & Problem Solving
-      ↓
-React Web Applications
-      ↓
-Full Stack Projects
-      ↓
-AI + Web Development
-
-I enjoy building projects that combine learning, problem solving, and practical development.
 
 ---
 
