@@ -204,23 +204,53 @@ const abhinavMaurya = {
 
 ---
 
-## 📈 Contribution Graph
+🚀 Featured Projects
+🌐 JavaPath
 
-<div align="center">
+A Java learning platform focused on Java, DSA, interview preparation, coding practice, and programming resources.
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavmaurya12&theme=tokyo-night&hide_border=true&radius=12" alt="Contribution Graph"/>
+🔗 Live:
+https://abhinavmaurya12.github.io/javapath-react/
 
-</div>
+☕ CodeSquadz
 
----
+My public Java programming practice repository containing programs covering:
 
-## 🏆 GitHub Trophies
+Core Java
+OOP
+Arrays
+Strings
+Collections
+Exception Handling
+Multithreading
+File I/O
+AWT & Swing
+Patterns
+Packages
+Java problem solving
 
-<div align="center">
+🔗 Repository:
+https://github.com/abhinavmaurya12/CodeSquadz
 
-<img src="https://github-profile-trophy.vercel.app/?username=abhinavmaurya12&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=12&margin-h=12" alt="GitHub Trophies"/>
+🎮 FunByte
 
-</div>
+A React-based collection of fun browser games and interactive mini-projects.
+
+🔗 Repository:
+https://github.com/abhinavmaurya12/funbyte
+
+💻 What I Like Building
+Java Applications
+      ↓
+DSA & Problem Solving
+      ↓
+React Web Applications
+      ↓
+Full Stack Projects
+      ↓
+AI + Web Development
+
+I enjoy building projects that combine learning, problem solving, and practical development.
 
 ---
 
