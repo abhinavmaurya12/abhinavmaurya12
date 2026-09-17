@@ -190,8 +190,6 @@ A Java learning platform focused on **Java, DSA, interview preparation, coding p
 
 ### ☕ JavaSquadz
 
-[svg](https://github.com/abhinavmaurya12#-javasquadz)
-
 My public Java programming practice repository containing programs, examples, assignments, and learning resources covering Core Java, OOP, problem solving, and more.
 
 #### 📂 Repository Contents
