@@ -188,24 +188,45 @@ A Java learning platform focused on **Java, DSA, interview preparation, coding p
 
 ---
 
-### ☕ CodeSquadz
+### ☕ JavaSquadz
 
-My public Java programming practice repository containing programs covering:
+[svg](https://github.com/abhinavmaurya12#-javasquadz)
 
-* Core Java
-* OOP
-* Arrays
-* Strings
-* Collections
-* Exception Handling
-* Multithreading
-* File I/O
-* AWT & Swing
-* Patterns
-* Packages
-* Java problem solving
+My public Java programming practice repository containing programs, examples, assignments, and learning resources covering Core Java, OOP, problem solving, and more.
 
-🔗 **Repository:** [https://github.com/abhinavmaurya12/CodeSquadz](https://github.com/abhinavmaurya12/CodeSquadz)
+#### 📂 Repository Contents
+
+* `(Oops_core_java)Que&Ans`
+* `Array`
+* `ExceptionHandling`
+* `Files_handle`
+* `Friday`
+* `GarbageCollection`
+* `IO_Stream`
+* `Java_AWT_SWING_Code`
+* `Maltitreading`
+* `New folder`
+* `Oops`
+* `PracticeHome`
+* `Serialization`
+* `String Handling`
+* `Super`
+* `Switch&Continue`
+* `This`
+* `Threading`
+* `UI_Assignment`
+* `basicPattern`
+* `loop`
+* `p1`
+* `package`
+
+#### 📄 Learning Resources
+
+* `JAVA COMPLETE QUICK LEARN.txt`
+* `Java Quick Learn.txt`
+
+🔗 **Repository:** https://github.com/abhinavmaurya12/JavaSquadz
+
 
 ---
 
