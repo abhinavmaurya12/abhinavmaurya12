@@ -352,6 +352,45 @@ This is better for your profile because **all three projects now have a clear de
  
 <br/>
 
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👋
+
+**Java Full Stack Developer · Java · DSA · React · Web Development**
+
+[GitHub](https://github.com/abhinavmaurya12) ·
+[JavaSquadz](https://github.com/abhinavmaurya12/JavaSquadz) ·
+[JavaPath](https://abhinavmaurya12.github.io/javapath-react/) ·
+[FunByte](https://abhinavmaurya12.github.io/funbyte/)
+
+<br>
+
+**🚀 Projects & Learning**
+
+[JavaSquadz](https://github.com/abhinavmaurya12/JavaSquadz) ·
+[JavaPath](https://abhinavmaurya12.github.io/javapath-react/) ·
+[FunByte](https://abhinavmaurya12.github.io/funbyte/)
+
+<br>
+
+### 📬 Let's Connect
+
+**Open to opportunities, collaborations, and interesting projects.**
+
+[**Get in Touch →**](https://github.com/abhinavmaurya12)
+
+<br>
+
+*Building projects. Solving problems. Learning continuously.*
+
+**© Abhinav Maurya**
+
+</div>
+
+---
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:060810,20:0ea5e9,50:8b5cf6,80:6366f1,100:060810"/>
 
 </div>
