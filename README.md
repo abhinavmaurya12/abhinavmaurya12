@@ -328,6 +328,12 @@ This is better for your profile because **all three projects now have a clear de
 
 </div>
 
+
+```
+⚡ Code  •  🎨 Create  •  💡 Innovate  •  🔁 Repeat
+```
+ 
+<br/>
 ---
 
 <div align="center">
@@ -346,13 +352,6 @@ This is better for your profile because **all three projects now have a clear de
  
 <br/><br/>
  
-```
-⚡ Code  •  🎨 Create  •  💡 Innovate  •  🔁 Repeat
-```
- 
-<br/>
-
-
 ---
 
 <div align="center">
