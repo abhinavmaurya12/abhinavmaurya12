@@ -357,8 +357,6 @@ This is better for your profile because **all three projects now have a clear de
 
 <div align="center">
 
-### Thanks for visiting my profile 👋
-
 **Java Full Stack Developer · Java · DSA · React · Web Development**
 
 [GitHub](https://github.com/abhinavmaurya12) ·
