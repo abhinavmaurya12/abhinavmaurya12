@@ -332,7 +332,6 @@ This is better for your profile because **all three projects now have a clear de
 ```
 ⚡ Code  •  🎨 Create  •  💡 Innovate  •  🔁 Repeat
 ```
- 
 <br/>
 ---
 
@@ -350,7 +349,7 @@ This is better for your profile because **all three projects now have a clear de
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram)](https://www.instagram.com/_abhinav_830_)
  
-<br/><br/>
+<br/>
  
 ---
 
