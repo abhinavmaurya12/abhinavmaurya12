@@ -166,18 +166,21 @@ const abhinavMaurya = {
 
 ## 🚀 Featured Projects
 
+## 🚀 Featured Projects
+
 <div align="center">
 
-| &nbsp;&nbsp;💻 Project&nbsp;&nbsp; | &nbsp;&nbsp;🚀 Description&nbsp;&nbsp; | &nbsp;&nbsp; |
+| 💻 Project | 🚀 Description | 🔗 Links |
 |:---:|:---|:---:|
-| 😷 **Face Mask Detection System** | AI-powered real-time mask detection using computer vision |
-| 🌿 **Yoga & Ayurveda Website** | Health & wellness platform with rich UI and responsive design |
-| 💼 **Portfolio Website** | Modern animated developer portfolio with cutting-edge frontend |
+| ☕ **JavaSutra** | Java learning website for exploring programming concepts | [🌐 Live Demo](https://abhinavmaurya12.github.io/JavaSutra/) · [📦 Repository](https://github.com/abhinavmaurya12/JavaSutra) |
+| 📚 **JavaPath** | Java, DSA, interview preparation, and coding practice platform | [🌐 Live Demo](https://abhinavmaurya12.github.io/javapath-react/) |
+| ☕ **JavaSquadz** | Java programming practice, Core Java, OOP, and coding examples | [📦 Repository](https://github.com/abhinavmaurya12/JavaSquadz) |
+| 🎮 **FunByte** | React-based browser games and interactive mini-projects | [🌐 Live Demo](https://abhinavmaurya12.github.io/funbyte/) · [📦 Repository](https://github.com/abhinavmaurya12/funbyte) |
+| 😷 **Face Mask Detection System** | AI-powered real-time mask detection using computer vision | Project |
+| 🌿 **Yoga & Ayurveda Website** | Health and wellness website with responsive design | Project |
+| 💼 **Portfolio Website** | Modern developer portfolio showcasing skills and projects | Project |
 
 </div>
-
-Sure — here’s the updated **Featured Projects** section with the **FunByte live demo** added, while keeping the formatting clean for your GitHub profile README.
-
 
 
 ### 🌐 JavaPath
@@ -361,6 +364,8 @@ This is better for your profile because **all three projects now have a clear de
 [JavaSquadz](https://github.com/abhinavmaurya12/JavaSquadz) ·
 [JavaPath](https://abhinavmaurya12.github.io/javapath-react/) ·
 [FunByte](https://abhinavmaurya12.github.io/funbyte/)
+[JavaSutra](https://abhinavmaurya12.github.io/JavaSutra/) ·
+
 
 <br>
 
@@ -369,6 +374,8 @@ This is better for your profile because **all three projects now have a clear de
 [JavaSquadz](https://github.com/abhinavmaurya12/JavaSquadz) ·
 [JavaPath](https://abhinavmaurya12.github.io/javapath-react/) ·
 [FunByte](https://abhinavmaurya12.github.io/funbyte/)
+[GitHub](https://github.com/abhinavmaurya12) ·
+[JavaSutra](https://abhinavmaurya12.github.io/JavaSutra/) ·
 
 <br>
 
