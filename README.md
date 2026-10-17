@@ -124,6 +124,7 @@ const abhinavMaurya = {
 [![GitHub](https://img.shields.io/badge/GitHub-abhinavmaurya12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhinavmaurya12)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhinav%20Maurya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-maurya-25162b338)
 [![Instagram](https://img.shields.io/badge/Instagram-_abhinav__830_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_abhinav_830_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-abhinavmau-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhinavmau/)
 
 </div>
 
