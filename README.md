@@ -167,8 +167,6 @@ const abhinavMaurya = {
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
 <div align="center">
 
 | 💻 Project | 🚀 Description | 🔗 Links |
