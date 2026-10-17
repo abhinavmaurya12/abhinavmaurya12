@@ -277,6 +277,22 @@ This is better for your profile because **all three projects now have a clear de
 
 ---
 
+## 🧩 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/abhinavmau/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Visit%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
+
+<br/><br/>
+
+**Practice · Problem Solving · Data Structures & Algorithms**
+
+</div>
+
+---
+
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -284,9 +300,6 @@ This is better for your profile because **all three projects now have a clear de
 <img width="90%" src="https://streak-stats.demolab.com?user=abhinavmaurya12&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 </div>
-
----
-
 
 ---
 
