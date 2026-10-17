@@ -364,6 +364,7 @@ This is better for your profile because **all three projects now have a clear de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/abhinav-maurya-25162b338)
 &nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=social&logo=instagram)](https://www.instagram.com/_abhinav_830_)
+[![LeetCode](https://img.shields.io/badge/LeetCode-abhinavmau-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/abhinavmau/)
  
 <br/>
  
