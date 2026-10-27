@@ -165,6 +165,23 @@ const abhinavMaurya = {
 
 ---
 
+🔗 LinkForge
+
+All Your Projects. One Destination. 🚀
+
+LinkForge is a centralized showcase for my live websites and web development projects. It brings all my deployed projects together in one place, allowing visitors to explore my work and access live demos without searching through multiple repositories.
+
+<p align="center">
+  <a href="https://abhinavmaurya12.github.io/LinkForge/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_LinkForge-2ea44f?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="https://github.com/abhinavmaurya12/LinkForge">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
