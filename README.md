@@ -167,7 +167,7 @@ const abhinavMaurya = {
 
 ## 🔗 LinkForge
 
-All Your Projects. One Destination. 🚀
+All My Projects. One Destination. 🚀
 
 LinkForge is a centralized showcase for my live websites and web development projects. It brings all my deployed projects together in one place, allowing visitors to explore my work and access live demos without searching through multiple repositories.
 
