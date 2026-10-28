@@ -182,6 +182,23 @@ LinkForge is a centralized showcase for my live websites and web development pro
 
 ---
 
+## 🚀 ReplicaX
+
+**Reimagine the Web. One Replica at a Time. 🎨**
+
+ReplicaX is a collection of website replicas inspired by popular websites and digital platforms. It showcases my frontend development skills through recreated designs, interactive interfaces, and modern web experiences.
+
+<p align="center">
+  <a href="https://abhinavmaurya12.github.io/ReplicaX/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_ReplicaX-2ea44f?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="https://github.com/abhinavmaurya12/ReplicaX">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
