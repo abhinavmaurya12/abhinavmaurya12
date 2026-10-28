@@ -165,6 +165,23 @@ const abhinavMaurya = {
 
 ---
 
+## 🌌 AbhiVerse
+
+**Your Digital World. All in One Place. 🚀**
+
+AbhiVerse is my personal digital hub that brings together my portfolio, web development projects, learning platforms, and creative experiments in one destination. Explore my work, discover my projects, and access all my websites through a single, organized collection of links.
+
+<p align="center">
+  <a href="https://abhinavmaurya12.github.io/AbhiVerse/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Explore_AbhiVerse-2ea44f?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="https://github.com/abhinavmaurya12/AbhiVerse">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="GitHub Repository">
+  </a>
+</p>
+
+---
+
 ## 🔗 LinkForge
 
 All My Projects. One Destination. 🚀
