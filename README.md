@@ -226,6 +226,7 @@ ReplicaX is a collection of website replicas inspired by popular websites and di
 | 📚 **JavaPath** | Java, DSA, interview preparation, and coding practice platform | [🌐 Live Demo](https://abhinavmaurya12.github.io/javapath-react/) |
 | ☕ **JavaSquadz** | Java programming practice, Core Java, OOP, and coding examples | [📦 Repository](https://github.com/abhinavmaurya12/JavaSquadz) |
 | 🚀 **Gitora** | GitHub-inspired developer platform clone | [🌐 Live Demo](https://abhinavmaurya12.github.io/Gitora/) · [📦 Repository](https://github.com/abhinavmaurya12/Gitora) |
+| 🔗 LinkSphere | LinkedIn-inspired professional networking platform clone | [🌐 Live Demo](https://abhinavmaurya12.github.io/LinkSphere/?utm_source=chatgpt.com) · [📦 Repository](https://github.com/abhinavmaurya12/LinkSphere?utm_source=chatgpt.com) |
 | 🎮 **FunByte** | React-based browser games and interactive mini-projects | [🌐 Live Demo](https://abhinavmaurya12.github.io/funbyte/) · [📦 Repository](https://github.com/abhinavmaurya12/funbyte) |
 | 😷 **Face Mask Detection System** | AI-powered real-time mask detection using computer vision | Project |
 | 🌿 **Yoga & Ayurveda Website** | Health and wellness website with responsive design | Project |
