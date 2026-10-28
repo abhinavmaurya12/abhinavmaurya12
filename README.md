@@ -167,7 +167,7 @@ const abhinavMaurya = {
 
 ## 🌌 AbhiVerse
 
-**Your Digital World. All in One Place. 🚀**
+**My Digital World. All in One Place. 🚀**
 
 AbhiVerse is my personal digital hub that brings together my portfolio, web development projects, learning platforms, and creative experiments in one destination. Explore my work, discover my projects, and access all my websites through a single, organized collection of links.
 
